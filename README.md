@@ -1,4 +1,4 @@
 # taller-de-desarrollo
-clase 1 del lab 
+clase 1 
 
 !!! GENERAR CONFLICTO - Benjamín
